@@ -34,6 +34,3 @@ This example code will generate a music card image and save it.
 # __Output__
 This is the **classic** output of tunesiacard.
 ![classic](https://cdn.discordapp.com/attachments/1168583777036017825/1168921841767817347/tunesia.png)
-
-## Original code 
-[A3PIRE](https://github.com/A3PIRE/musicard.git)

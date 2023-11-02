@@ -1,6 +1,6 @@
 {
-  "name": "musicard",
-  "version": "1.5.0",
+  "name": "tunesiacard",
+  "version": "1.5.2",
   "description": "Experience your Discord bot's music in a visual format.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -24,7 +24,7 @@
     "discord",
     "discord-canvas"
   ],
-  "author": "FlameFace",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@napi-rs/canvas": "^0.1.44",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/A3PIRE/musicard.git"
+    "url": "https://github.com/lrmn7/tunesiacard.git"
   },
   "bugs": {
-    "url": "https://github.com/A3PIRE/musicard/issues"
+    "url": "https://github.com/lrmn7/tunesiacard/issues"
   }
 }
